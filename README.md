@@ -7,6 +7,8 @@ Mục lục
 5. Kết quả
 
 
+
+
 1. Mô tả file (ml_algo.py)
 File ml_algo.py thực hiện các bước sau:
 
